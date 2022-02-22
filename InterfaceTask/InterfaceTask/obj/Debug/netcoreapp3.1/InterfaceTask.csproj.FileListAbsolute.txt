@@ -1,0 +1,5 @@
+/Users/ceyhunaxundzade/Desktop/Method/InterfaceTask/InterfaceTask/obj/Debug/netcoreapp3.1/InterfaceTask.csproj.AssemblyReference.cache
+/Users/ceyhunaxundzade/Desktop/Method/InterfaceTask/InterfaceTask/obj/Debug/netcoreapp3.1/InterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceyhunaxundzade/Desktop/Method/InterfaceTask/InterfaceTask/obj/Debug/netcoreapp3.1/InterfaceTask.AssemblyInfoInputs.cache
+/Users/ceyhunaxundzade/Desktop/Method/InterfaceTask/InterfaceTask/obj/Debug/netcoreapp3.1/InterfaceTask.AssemblyInfo.cs
+/Users/ceyhunaxundzade/Desktop/Method/InterfaceTask/InterfaceTask/obj/Debug/netcoreapp3.1/InterfaceTask.csproj.CoreCompileInputs.cache
